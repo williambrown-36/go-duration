@@ -3,8 +3,9 @@
 ```
 duration.go
 ```
-See the test next to the source for usage.
+
+Run the Go Duration test next to the implementation for concrete examples.
 
 Parse '1h30m' style durations to seconds and back — dependency-free.
 
-No dependencies, no service to run — just the standard library.
+Go Duration uses only the Go standard library; there is no service or dependency to install.
